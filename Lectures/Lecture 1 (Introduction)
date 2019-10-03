@@ -1,11 +1,19 @@
-Типы данных:
-https://metanit.com/java/tutorial/2.12.php
+Ссылка на github:
+https://github.com/RezviyBelorus/tms-c29-2019
 
 Ссылка на гугл диск:
 https://drive.google.com/drive/u/2/folders/1Y1bz_6C9QfzgpUUJaOi7YbLj83RzZdhV
 
 Скачать 11 JDK: https://jdk.java.net/java-se-ri/11
 JDK installer: https://adoptopenjdk.net/index.html?variant=openjdk11&jvmVariant=hotspot
+Скачать Idea Common Edition: https://www.jetbrains.com/idea/download/#section=linux
+
+Ссылка на Youtube-канал:
+https://www.youtube.com/watch?v=CMgDYT6CCCA&list=PLfcUTt7_afzsEYFhzxtCtIv_gwoNms3Ws
+
+Типы данных:
+https://metanit.com/java/tutorial/2.12.php
 
 compile: javac HelloWorld.java
 run: java HelloWorld [input_param0 input_param1...]
+
